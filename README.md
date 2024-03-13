@@ -1,10 +1,10 @@
-<center>
+<div align="center">
 
 # Hi there, I'm Sowmyasree Battu! 👋
 
-</center>
+</div>
 
-<center>
+<div align="center">
 
 <div align="right">
 
@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=A10388&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer;DS+%7C+ML+%7C+AI+Enthusiastic;Always+learning)](https://git.io/typing-svg)
 
-</center>
+</div>
 
 ## About Me
 
@@ -23,11 +23,11 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 - **Currently:** Graduated from University of Texas at Arlington.(MS in CS)
 - **Previously:** Software Engineer at Tata Consultancy Services Ltd.
 
-<center>
+<div align="center">
   
 **Actively looking for Full time Job Opportunities**
 
-</center>
+</div>
 
 ## 🔥Streak Status
 
@@ -82,13 +82,13 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🙋‍♀️ Let's Connect
-<center>
+<div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sowmya517)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmyasree-battu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sowmya367123@gmail.com)
 
-</center>
+</div>
 
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect! 😊
