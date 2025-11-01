@@ -20,7 +20,7 @@
 
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 
-- **Currently:** Graduated from University of Texas at Arlington.(MS in CS)
+- **Currently:** Graduated from University of Texas at Arlington.(MS in Computer Science)
 - **Previously:** Senior Software Engineer at C3.ai.
 
 <div align="center">
